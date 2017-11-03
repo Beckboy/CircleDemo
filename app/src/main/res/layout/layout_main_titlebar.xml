@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.hunter_j.hunter_circledemo.widgets.TitleBar
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_title_bar"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:background="@color/white"
+    >
+
+</com.example.hunter_j.hunter_circledemo.widgets.TitleBar>
